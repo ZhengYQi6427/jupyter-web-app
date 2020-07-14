@@ -6,5 +6,7 @@
 3. Designed algorithms to implement content-based job recommendation.
 
 ## Demo
-http://ec2-54-242-110-109.compute-1.amazonaws.com/jupiter
+
 ![](images/mainPage.png)
+
+http://ec2-54-242-110-109.compute-1.amazonaws.com/jupiter
